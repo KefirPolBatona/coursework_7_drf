@@ -32,5 +32,8 @@
 Запуск проекта:
 * python manage.py runserver
 
+Запуск проекта с Docker-Compose:
+* docker-compose up -d --build
+
 Запуск тестов:
 * python manage.py test
